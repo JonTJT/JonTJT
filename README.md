@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jontjt" alt="jontjt" /></a> </p>
 
-- 🔭 I’m currently working on **getting an overseas internship!**
-
-- 🌱 I’m currently learning **Kotlin in conjunction with Android development**
-
 - 👯 I’m looking to collaborate on **Any security or web related projects!**
 
 - 📫 How to reach me **jontanjunting@gmail.com**
